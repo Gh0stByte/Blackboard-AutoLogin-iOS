@@ -2,7 +2,7 @@
 
 ## About
 
-This tweak will auto-fill your username and password for HVCC's single sign-on. Very helpfull if you use blackboard across multiple devices and keep having to re-login manually on your mobile.
+This tweak will auto-fill your username and password for HVCC's single sign-on. Very helpful if you use blackboard across multiple devices and keep having to re-login manually on your mobile.
 
 ## Media
 
