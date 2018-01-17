@@ -1,0 +1,11 @@
+Package: ga.gh0stbyte.blackboardhvcc
+Name: BlackBoard AutoLogin (HVCC)
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Auto HVCC SSO login
+  Allows you to login to HVCC through
+  the blackboard app automatically
+Maintainer: Gh0stByte<gh0stbyte01@gmail.com>
+Author: Gh0stByte<gh0stbyte01@gmail.com>
+Section: Tweaks
