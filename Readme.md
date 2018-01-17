@@ -6,8 +6,8 @@ This tweak will auto-fill your username and password for HVCC's single sign-on. 
 
 ## Media
 
-![Screenshot](../media/IMG_5010.PNG "Setup Screen during first login with tweak")
-![Screenshot](../media/IMG_5011.PNG "When 'Help' is pressed")
+![Screenshot](../master/media/IMG_5010.PNG "Setup Screen during first login with tweak")
+![Screenshot](../master/media/IMG_5011.PNG "When 'Help' is pressed")
 
 
 ## Installation
