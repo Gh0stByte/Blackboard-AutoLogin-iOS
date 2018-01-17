@@ -12,7 +12,7 @@ This tweak will auto-fill your username and password for HVCC's single sign-on. 
 
 ## Installation
 
-Go to Releases and download latest deb (or [direct](../packages/)) & install with iFile, Filza, dpkg or whatever suits your fancy. 
+Go to Releases and download latest deb (or [direct](../master/packages/)) & install with iFile, Filza, dpkg or whatever suits your fancy. 
   
 OR  
 
@@ -55,4 +55,4 @@ Made by [Gh0stByte](http://twitter.com/Gh0stByte)
 
 ## License
 ### Modified MIT License. READ IN FULL *BEFORE* USE
-[License.md](../License.md)
+[License.md](../master/License.md)
