@@ -1,5 +1,4 @@
 # Auto-login / Auto-fill for Blackboard's iOS app (Hudson Valley Community College)
-======
 
 ## About
 
@@ -7,13 +6,13 @@ This tweak will auto-fill your username and password for HVCC's single sign-on. 
 
 ## Media
 
-![Screenshot](../media/IMG_5010.PNG "Setup Screen")
+![Screenshot](../media/IMG_5010.PNG "Setup Screen during first login with tweak")
 ![Screenshot](../media/IMG_5011.PNG "When 'Help' is pressed")
 
 
 ## Installation
 
-Go to Releases and download latest deb & install with iFile, Filza, dpkg or whatever suits your fancy. 
+Go to Releases and download latest deb (or [direct](../packages/)) & install with iFile, Filza, dpkg or whatever suits your fancy. 
   
 OR  
 
