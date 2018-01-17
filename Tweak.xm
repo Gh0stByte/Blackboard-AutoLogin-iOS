@@ -1,4 +1,9 @@
-NSString *username, *password;
+/* 
+ * Tweak.xm
+ * Date: January 16, 2018
+ * Developed by Gh0stByte, All Rights Reserved
+ */
+ NSString *username, *password;
 
 // Hook into the main view controller
 %hook BBLFTWViewController
